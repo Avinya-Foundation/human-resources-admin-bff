@@ -1,1 +1,1 @@
-# human-resources-admin-bff
+# Avinya Foundation Human Resources Admin BFF
